@@ -79,7 +79,7 @@ $msgData = $msgs[$msgKey] ?? null;
       <div class="brand-emblem">🍴</div>
       <div class="brand-text">
         <span class="brand-name">FoodVault</span>
-        <span class="brand-tagline">Restaurant Inventory System</span>
+        <span class="brand-tagline">Food Management System</span>
       </div>
     </div>
     <nav class="header-nav">
