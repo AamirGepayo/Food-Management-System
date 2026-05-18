@@ -1,4 +1,4 @@
-<?php
+\<?php
 // ═══════════════════════════════════════════════
 //  db.php — Database Connection
 //  Database: food_management_system
